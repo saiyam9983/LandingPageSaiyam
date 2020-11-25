@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.40082901.chunk.js",
+    "main.js.map": "/static/js/main.40082901.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07471bbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07471bbc.js.map",
+    "static/js/2.0871640d.chunk.js": "/static/js/2.0871640d.chunk.js",
+    "static/js/2.0871640d.chunk.js.map": "/static/js/2.0871640d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0871640d.chunk.js.LICENSE.txt": "/static/js/2.0871640d.chunk.js.LICENSE.txt",
+    "static/media/AppStore.1fec2527.png": "/static/media/AppStore.1fec2527.png",
+    "static/media/Avt1.b8f759e3.png": "/static/media/Avt1.b8f759e3.png",
+    "static/media/Avt2.7ac091c1.png": "/static/media/Avt2.7ac091c1.png",
+    "static/media/Avt3.472cb5e5.png": "/static/media/Avt3.472cb5e5.png",
+    "static/media/Avt4.264ffbf9.png": "/static/media/Avt4.264ffbf9.png",
+    "static/media/Dark.5a31b3cf.png": "/static/media/Dark.5a31b3cf.png",
+    "static/media/Edited.bd4c254f.png": "/static/media/Edited.bd4c254f.png",
+    "static/media/GridList1.9b231666.png": "/static/media/GridList1.9b231666.png",
+    "static/media/GridList2.644f87d2.png": "/static/media/GridList2.644f87d2.png",
+    "static/media/GridList3.b7d47122.png": "/static/media/GridList3.b7d47122.png",
+    "static/media/GridList4.bc2bcc66.png": "/static/media/GridList4.bc2bcc66.png",
+    "static/media/PlayStore.712a2ed1.png": "/static/media/PlayStore.712a2ed1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07471bbc.js",
+    "static/js/2.0871640d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.40082901.chunk.js"
+  ]
+}
